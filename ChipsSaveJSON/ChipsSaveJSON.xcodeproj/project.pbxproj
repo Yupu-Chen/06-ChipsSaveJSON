@@ -53,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				AB8272F429AE651A00D55AEB /* README.md */,
+				2DF89AAE2BC498F100FD07A8 /* TopCanvasView.swift */,
 				AB53430F29AC37650071FEB3 /* ChipsSaveJSON */,
 				AB53430E29AC37650071FEB3 /* Products */,
 			);
@@ -71,7 +72,6 @@
 			children = (
 				AB53431029AC37650071FEB3 /* ChipsSaveJSONApp.swift */,
 				AB53431229AC37650071FEB3 /* ContentView.swift */,
-				2DF89AAE2BC498F100FD07A8 /* TopCanvasView.swift */,
 				AB53431E29AC37A80071FEB3 /* ItemView.swift */,
 				AB53432029AC37A80071FEB3 /* Document.swift */,
 				2DF89AAA2BC4967700FD07A8 /* ButtonRow1.swift */,
